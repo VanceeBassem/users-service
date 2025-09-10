@@ -13,6 +13,7 @@ It is part of the Ecommerce Microservices project.
 
 ## Setup
 1. Clone the repository:
+git clone https://github.com/VanceeBassem/users-service.git
 git clone 
 cd users-service
 2. Install dependencies:
